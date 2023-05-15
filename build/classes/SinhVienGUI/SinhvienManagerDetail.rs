@@ -1,0 +1,3 @@
+SinhVienGUI.SinhvienManagerDetail
+SinhVienGUI.sortedByNamesv
+SinhVienGUI.sortedByPrice
